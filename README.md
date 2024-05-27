@@ -85,22 +85,3 @@ Once logged in, select an option from the following:
 13. **Logout**
     - Log out of the application.
 
-## Getting Started
-
-To get started with Findle, follow these steps:
-
-1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/yourusername/findle.git
-    ```
-
-2. **Install Dependencies**:
-    ```sh
-    cd findle
-    npm install
-    ```
-
-3. **Run the Application**:
-    ```sh
-    npm start
-    ```
